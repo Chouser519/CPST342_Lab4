@@ -44,6 +44,10 @@ Make sure your branch is clean prior to pushing up changes.  Make sure the chang
 2.  Make sure your master branch is clean and push up your final changes.
 3.  In Sakai, submit **1) the URL to your repository** and **2) the URL to your Heroku application**
 
+Date of completion: December 12, 2023
+Course information: CPST 342 Fall 2023
+Heroku URL: https://grocery-app-lab-4-b0d8fad2ec4b.herokuapp.com/
+
 ### Lab Resources and Helpful material
 
 [FreeCodeCamp.com Heroku Hosting tutorial](https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-app-to-heroku-from-github-without-installing-heroku-on-your-machine-433bec770efe/#:~:text=Open%20the%20Settings%20tab%20and,Deploy%20Branch%20at%20the%20bottom.&text=And%20that's%20it!)
